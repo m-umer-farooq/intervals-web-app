@@ -1,0 +1,9 @@
+{
+  "short_name": "Intervals Dashboard",
+  "name": "Intervals databoard to import/update hours. Reporting. Updating hours from reports.",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
